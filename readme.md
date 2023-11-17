@@ -4,4 +4,4 @@
    [Exercice Hotel Delémont.pdf](Exercice%20Hotel%20Delémont.pdf)
 2. Ce dépôt représente le contenu de la clé USB décrite dans la consigne.
    
-> Bon chance !
+> Bonne chance !
